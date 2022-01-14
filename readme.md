@@ -1,4 +1,8 @@
 # 2023届成电前端er的前端学习小基地
+> 学习打卡人（加上你的ID与个人主页链接，一起快乐打卡学习咯~）——
+> 
+> @[FangzhouSu ](https://github.com/FangzhouSu)
+> @
 
 - 分享面试经验——直接向“面试经验”文件夹提pr
 ![image](https://user-images.githubusercontent.com/75036021/149376488-df1af507-f5b6-41b6-abce-75057a6cfe1e.png)
